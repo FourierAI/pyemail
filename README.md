@@ -8,7 +8,7 @@ pip install oemail
 1. open POP3/SMTP service
 2. save your auth_code 
 3. enjoy it
-```code
+```python
 from oemail import oemail
 sender = "xxxxx@google.com"
 receiver = "yyyyyy@google.com"
